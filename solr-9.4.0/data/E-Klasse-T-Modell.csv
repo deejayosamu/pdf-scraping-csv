@@ -1,0 +1,4 @@
+Name,Option,Torque(Nm),Engine/Zylinder,Displacement(cm3),Fuel Consumption(l/100 km),CO2 Emissions(g/km),Price(euro)
+E-Klasse T-Modell,E 300 e ,550,Hybrid/R4,1999,"0,9 - 0,6","19,0 - 13,0",69265
+E-Klasse T-Modell,E 300 de ,700,Hybrid/R4,1993,"0,7 - 0,5","18,0 - 13,0",69706
+E-Klasse T-Modell,E 300 de 4MATIC,700,Hybrid/R4,1993,"0,8 - 0,6","22,0 - 16,0",73183

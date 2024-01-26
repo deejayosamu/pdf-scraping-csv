@@ -1,0 +1,4 @@
+Name,Option,Torque(Nm),Engine/Zylinder,Displacement(cm3),Fuel Consumption(l/100 km),CO2 Emissions(g/km),Price(euro)
+CLA,CLA 180 d,280,Diesel/R4,1950,"5,7 - 5,2",149 - 135,40490
+CLA,CLA 200 d,320,Diesel/R4,1950,"5,6 - 5,0",147 - 132,43990
+CLA,CLA 250 e,450,Hybrid/R4,1950,"1,2 - 0,9","27,0 - 20,0",44390
