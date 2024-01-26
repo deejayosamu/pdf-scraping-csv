@@ -1,0 +1,5 @@
+Name,Option,Torque(Nm),Engine/Zylinder,Displacement(cm3),Fuel Consumption(l/100 km),CO2 Emissions(g/km),Price(euro)
+E-Klasse Limousine,E 300 e ,550,Benziner/R4,1999,"0,8 - 0,5","18,0 - 12,0",65506
+E-Klasse Limousine,E 300 e 4MATIC,550,Benziner/R4,1999,"0,9 - 0,5","20,0 - 14,0",70062
+E-Klasse Limousine,E 300 de ,700,Diesel/R4,1993,"0,6 - 0,5","16,0 - 12,0",66525
+E-Klasse Limousine,E 300 de 4MATIC,700,Diesel/R4,1993,"0,8 - 0,5","20,0 - 14,0",69958
