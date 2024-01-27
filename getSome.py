@@ -1,6 +1,8 @@
 import re
 
 class getSome:
+
+  # get two arguments, which are regular expression and content for extraction
   def __init__(self, regex, content):
     self.regex = regex
     self.content = content

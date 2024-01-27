@@ -1,4 +1,6 @@
 class answer:
+
+  # get one argument, which is the result of pysolr.search
   def __init__(self, result):
     self.result = result
 
