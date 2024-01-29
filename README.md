@@ -17,7 +17,7 @@ To use Apache solr, you should execute these commands.
 
 1. Start SolrCloud.<br>`bin/solr start -e cloud`
 2. Create collection.<br>`bin/solr create -c benz-price-list-new -s 2 -rf 2`
-3. Generate Catchcall Copyfield.<br>`curl -X POST -H 'Content-type:application/json' --data-binary '{"add-copy-field" : {"source":"*","dest":"_text_"}}' http://localhost:8983/solr/films/schema`
+3. Generate Catchcall Copyfield.<br>`curl -X POST -H 'Content-type:application/json' --data-binary '{"add-copy-field" : {"source":"*","dest":"_text_"}}' http://localhost:8983/solr/benz-price-list-new/schema`
 4. Index the data.<br>`bin/post -c benz-price-list-new /data`
 <br><br>
 ***
